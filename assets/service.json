@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "chatbotconsel-me-frej",
+  "private_key_id": "4cd74c26fc8f8c0f189674dc7bac29bcf7ce11d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCw2swyplYrDh1z\n9AK/A/IlM/ZeC8EoWf1EehtxA1Hse1TcV5qet5o/c4R9USC3VQI1rLsGkamuL2ms\ntT4uM3JfY8PGs+Ji5N1nqsZbQoHqaoZdoVBILKAUxniEKZKMX2B/XSEQFd9VVTvr\n5uFP2RGoPaWmnONzgY/XXeHRk95nXazUWC4SpCprlr6M0wtqYbVeSBZMnTJ7NFyE\nd2i1tJcnImrg/u4uMc19z8XNyp/oV5TcfoMnl5gpw3lj2QLl18vGAp1hZYDBk+KO\nNkb1HVHy4rvq+higG8dkBxF0UGqmGZ1peD7gM2uwNrz+Ez8KNmjidZ5+P+YRxrFk\nJm9uAv8jAgMBAAECgf8zch0D9DCJVcQ7lct0xWdhY1tDqvkkcl5dSyf9+f0ki6Sj\n6IpbqQVoMboei6WvBFU/QCLaCEdfaAaPtvMV6hedJCZewhv15rTeWAljRKQRxwJe\nrpnt6L+/t/xW0thWUn+kfZW33fpMAxadq9WZQb46ZQnHDNxjLc1BSYZTuo0aspSI\nNb1pQ7WcfkZ3wOuDns/TuLK6u+kUQFf894VGhKOX9Z37JXI5anKgD31Q2nEd+/NS\nFHJ13a7TqRuaNiE9kH8jKLvZYZQFHluhVnpwHGWyZ9sFioedNEQo2tKM/2fOQEer\ndPl4U1Hw9uMJHJMIXWn7hTwsw2cTVphxZYHBiu0CgYEA+RjHDjNvYRvtOFgS5ThW\nTbDoZTxTbRKueFhy2orBS4qM+qfgbDXj/wgUmp16UkOjmIRtonB0cC3dcBOd0+Nw\nuTYLrrPN/FAZtMMFTHC5P2wb8Yy7rU2ZcNgbMWTx3lIR8jAj5/XWUQnjgVAmzeXj\n1PJP9oo3yraXHXuQRHHM0r8CgYEAtcF/NbIwdyFxWXE6DOYsc9Z1ex2YQHOU8uwV\nPqIydNgKEAR+LawBHkUbZIsQ6jWz6NuiNp8/aiWi3NBbkFBiPy7c3SYjndYODW07\nwHvNfKj/OiIGCtjrO540O0Yauhw6oGbfBBcdmrJDrW8dIOcsvSQyjffkRB7Fnvk6\nuNzKQJ0CgYBugZF9OVBGEm+QuXHYgr+2w661iqewEcOY3BRH45qQ+qxEXslu+BFn\niJwrY4VqjVs8RDOnBqCBS7ebCvjPkWzmnZVdMaNGNfrReFsXaEKmYj2bUUXJQk26\nBAU8Sn4KlPolKToko6kqVmq5aWdtnHkQdVcIFpVdttcfWzvLQXkOXQKBgQCVCfIy\nKcesKHQ2D662XRgedMEpD3+FekGtYQGato4BWhYGRGjjMqRIGgr4S0C3jQnV7CP7\n/mGVvP7rar9qez/U56yce2XBS4GCaQwSLnK1wi5nkPa7dlyOKpBR+o54BiXc2f4N\n8JaJ/5uXYAHWtTnubvw1hgxb/4+1aFFKvWHr0QKBgQDfaAsdvtZ3k4oO9btveMD9\nOx7q9ybchPCsh8oEAmhuZVeDUFL0z1akBDC76OiXbheOohMKDy0RVDo+7SaGOgXl\nDOyZl7fkJ7/mvkWDIE+sLJa1IuxBthvdhGRf9BOQ8y3znKAw5sVAQyawHAQf1DE+\nYjezmJ48zq5wB9FHodkbDw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "consel-me-chatbot@chatbotconsel-me-frej.iam.gserviceaccount.com",
+  "client_id": "111479655069582089006",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/consel-me-chatbot%40chatbotconsel-me-frej.iam.gserviceaccount.com"
+}
+
+

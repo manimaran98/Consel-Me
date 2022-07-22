@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "485563398803",
+    "project_id": "consel-me-6938b",
+    "storage_bucket": "consel-me-6938b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485563398803:android:e666e3feaf0c968e712b66",
+        "android_client_info": {
+          "package_name": "com.example.sampleproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485563398803-p50aeigtq1m1aa2m7jl8qa7rbjmhosk3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sampleproject",
+            "certificate_hash": "7b54e7714a3347bd8446ebbfe8923dc48c411094"
+          }
+        },
+        {
+          "client_id": "485563398803-psomvo7dds1hpl8hl4bpm4t9jg7kupjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA_cBjLn1Hkt-ahOWZSRDMEiJYrW9KRgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485563398803-psomvo7dds1hpl8hl4bpm4t9jg7kupjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
